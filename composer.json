@@ -1,5 +1,5 @@
 {
-    "name": "msonowal/laravel-razor-pay-cashier",
+    "name": "redchamps/laravel-razor-pay-cashier",
     "description": "Laravel Cashier provides an expressive, fluent interface to Razorpay's subscription billing services.",
     "keywords": ["laravel", "razorpay", "subscription", "billing"],
     "license": "MIT",
@@ -17,7 +17,7 @@
         "php": ">=7.2",
         "illuminate/database": "*",
         "illuminate/support": "*",
-        "nesbot/carbon": "^2.31",
+        "nesbot/carbon": "*",
         "razorpay/razorpay": "^2.2"
     },
     "require-dev": {
